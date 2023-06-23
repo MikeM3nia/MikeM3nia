@@ -1,0 +1,27 @@
+/**
+ * @name Cosmic
+ * @author Astralius
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/47902-cosmictheme.html
+ * @authorLink https://vsthemes.org/user/Astralius/
+ * @authorId 86469
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 51,51,51;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0;
+    --accentcolor: 84,73,209;
+    --background: url("https://vsthemes.org/uploads/posts/2021-11/1638281780_1566950028-ultrafiolet-70.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
