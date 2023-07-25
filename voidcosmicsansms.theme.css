@@ -1,0 +1,65 @@
+/**
+ * @name void_cosmic_sans_MS
+ * @author DevilBro
+ * @version 1.0.5
+ * @description Allows you to use a background image without greatly altering the basic look of Discord.
+ * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground
+ * @authorId 278543574059057154
+ * @BDEditor BasicBackground
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background: url('https://i.imgur.com/IiwQFFT.png');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 25px;
+  --popout: url('https://i.imgur.com/KEvAUA8.png');
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 25px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 90,90,90;
+  --backdrop: rgb(205,205,205,0.85);
+  --textshadow: rgb(96,95,95,1);
+  --transparencyalpha: 0.38;
+  --messagetransparency: 0.36;
+  --guildchanneltransparency: 0.16;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0.08;
+  --font: Comic Sans MS;
+  --textbrightest: 255,255,255;
+  --textbrighter: 0,0,0;
+  --textbright: 0,0,0;
+  --textdark: 0,0,0;
+  --textdarker: 145,145,145;
+  --textdarkest: 94,94,94;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
